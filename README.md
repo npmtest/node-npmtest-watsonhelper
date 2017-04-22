@@ -35,19 +35,22 @@
 ```json
 
 {
-    "name": "watsonhelper",
-    "description": "Watson utility framework",
-    "version": "1.1.1",
     "author": {
         "name": "Shubhradeep Nandi"
     },
-    "license": "Apache-2.0",
     "bugs": {
         "url": "https://github.com/ShubhradeepNandi/watsonhelper/issues"
     },
     "dependencies": {
         "chrono-node": "~1.2.4",
         "dateformat": "~1.0.2"
+    },
+    "description": "Watson utility framework",
+    "devDependencies": {},
+    "directories": {},
+    "dist": {
+        "shasum": "7cfc10b01ecba0bed718bd917612ed7b60d77882",
+        "tarball": "https://registry.npmjs.org/watsonhelper/-/watsonhelper-1.1.1.tgz"
     },
     "keywords": [
         "watson",
@@ -61,7 +64,18 @@
         "Natural language date",
         "conversation",
         "IBM"
-    ]
+    ],
+    "license": "Apache-2.0",
+    "maintainers": [
+        {
+            "name": "shubhra"
+        }
+    ],
+    "name": "watsonhelper",
+    "optionalDependencies": {},
+    "scripts": {},
+    "version": "1.1.1",
+    "bin": {}
 }
 ```
 
